@@ -1,0 +1,3 @@
+resources:
+  - release.yaml
+  - namespace.yaml
